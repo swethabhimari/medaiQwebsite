@@ -1,0 +1,25 @@
+.container{
+    display: grid;
+    grid-auto-flow: column ;
+    margin-top: 50px;
+}
+.sudo{
+    width: 300px;
+    height: 200px;
+    background-image: url(./Img3_3.png);
+}
+.sudo:hover{
+    background-image: url(./Img_Il-Biscotto-al-Limone_\(600x600\).png);
+    width: 300px;
+    height: 300px;
+}
+.sudo2{
+    width: 300px;
+    height: 200px;
+    background-image: url(./Img_1-Biscotto-al-Cioccolato.png);
+}
+.sudo:hover{
+    background-image: url(./Img_);
+    width: 300px;
+    height: 300px;
+}
